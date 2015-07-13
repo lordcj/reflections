@@ -1,0 +1,5 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the staging area is bit like the repository but a lot different it 
+stores the file but its doesn't commit it .. so kind of if i think 
+the bug is solved and after some time i realise the bug is not solved
+i can easily get the file out of stagging area and can fix the bug and then add it to the file.
