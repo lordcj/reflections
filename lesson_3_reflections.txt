@@ -1,2 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
 When i know i am a good enough programmer to share my views with all the big people on the web.
+
+Why might you want to always pull changes manually rather than having Git automatically stay 
+up-to-date with your remote repository?
+.. There might be a change that must not be a logical change and it would take time to complete it .
+......so it would not be gentle of github to automatically push and pull ....... and as a prog-
+-rammer i want to have full control over my file .....so it would be nicer if i do it on my own.

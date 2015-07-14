@@ -3,3 +3,6 @@ the staging area is bit like the repository but a lot different it
 stores the file but its doesn't commit it .. so kind of if i think 
 the bug is solved and after some time i realise the bug is not solved
 i can easily get the file out of stagging area and can fix the bug and then add it to the file.
+
+.. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+  The two branches get merged!!!...ahhaaaa!!!!!......the diagram actually gave the clear view.
