@@ -44,3 +44,5 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
     I'll use it to first learn the javascript course for which i am learning git..
     and after time ill figure out what to do...
+
+we need the changes evrywhere
